@@ -1,0 +1,7 @@
+/* client/src/components/product/Product.css */
+.product-table {
+  background: white;
+  padding: 18px;
+  border-radius: 8px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.06);
+}
